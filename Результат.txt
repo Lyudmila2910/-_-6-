@@ -1,0 +1,23 @@
+C:\Users\1\PycharmProjects\pythonProject1\venv\Scripts\python.exe C:/Users/1/PycharmProjects/pythonProject1/main.py
+
+Поиск пути от url1 к url2
+
+Путь от https://en.wikipedia.org/wiki/Six_degrees_of_separation к https://en.wikipedia.org/wiki/American_Broadcasting_Company:
+https://en.wikipedia.org/wiki/Six_degrees_of_separation -> 
+https://en.wikipedia.org/wiki/Animal_testing -> 
+https://en.wikipedia.org/wiki/Cultural_depictions_of_tigers -> 
+https://en.wikipedia.org/wiki/Cultural_depictions_of_elephants -> 
+https://en.wikipedia.org/wiki/Blue_Sky_Studios -> 
+https://en.wikipedia.org/wiki/American_Broadcasting_Company
+
+Поиск пути от url2 к url1
+
+Путь от https://en.wikipedia.org/wiki/American_Broadcasting_Company к https://en.wikipedia.org/wiki/Six_degrees_of_separation:
+https://en.wikipedia.org/wiki/American_Broadcasting_Company -> 
+https://en.wikipedia.org/wiki/Channing_Dungey -> 
+https://en.wikipedia.org/wiki/WaterTower_Music -> 
+https://en.wikipedia.org/wiki/The_Sounds -> 
+https://en.wikipedia.org/wiki/MySpace -> 
+https://en.wikipedia.org/wiki/Six_degrees_of_separation
+
+Process finished with exit code 0
